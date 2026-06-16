@@ -20,11 +20,7 @@ The objective of this project is to capture and analyze network packets using Py
 
 ## Sample Output
 
-Source IP: 192.168.1.8
-
-Destination IP: 192.168.1.1
-
-Protocol: TCP (6)
+<img width="987" height="180" alt="image" src="https://github.com/user-attachments/assets/48649075-ff7b-4920-919a-7cd4fbc2ed83" />
 
 ## Findings
 
